@@ -37,11 +37,6 @@
    color: #333;
 }
 
-.hnp_rev_jameda_30_pro label{
-   min-width: 30%;
-   display: inline-block;
-}
-
 .hnp_lt_nav-tab-wrapper {
    margin-top: 20px;
    border-bottom: 1px solid #ddd;
@@ -90,23 +85,6 @@
    color: #ca3131;
 }
 
-.hnp_lt_sale-price {
-   max-width: 120px;
-   background-color: #fff;
-   box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
-   color: #333;
-   text-align: center;
-   margin: 5px;
-   padding-top: 10px;
-   padding-bottom: 10px;
-   border-radius: 8px;
-}
-
-.single-product .hnp_lt_sale-price {
-   display: none !important;
-}
-
-
 .info-table {
   width: 100%;
   border-collapse: collapse;
@@ -132,8 +110,3 @@
 .info-table td:first-child {
   width: 30%;
 }
-
-p.hnp_rev_jameda_shortcode_info {
-font-size: 16px; color: red;
-}
-
